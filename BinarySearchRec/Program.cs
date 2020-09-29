@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BinarySearch
+namespace BinarySearchRec
 {
     class Program
     {
